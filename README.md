@@ -21,7 +21,7 @@ Total sales amounted to $2,789.8, with a total profit of $63.1779. The overall s
 - Loyalty Program: Customers without a loyalty card contributed slightly more to sales (52.57%) and quantity sold (1280 units) than members.
 - Top Customers: The top customer by quantity purchased is Terri Farra, with 22 units.
 
-## DETAILED PERFORMANCE ANALYSIS
+## Detailed performance analysis
 ### Sales and Profit by Coffee Type:
 ![](https://github.com/Jadonsofficiall/Coffee-Sales-and-Performance-Analysis/blob/main/Screenshot%202025-10-04%20174957.png)
 
